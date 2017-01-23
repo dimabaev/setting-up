@@ -1,0 +1,22 @@
+/*=========================
+Переменные для данной темы
+==========================*/
+:root {
+    --headerColorText           : #444444;
+    --portfolioColorTextName    : #444444;
+    --headerColorTextActive     : #3a5ff8;
+    --textName                  : #444444;
+    --textWorkText              : #444444;
+    --textAbountText            : #444444;
+    --textSkilText              : #444444;
+    --textPlaceholder           : #444444;
+    --textPortfolioMenu         : #444444;
+    --textChartT                : #444444;
+    --formColor                 : #fff;
+    --formColorSubmit           : #3a5ff8;
+    --colorSKIL                 : #fff;
+    --backgraund                : #f1f4f6;
+    --backgraund__two           : #674ba1;
+    --backgraund__thre          : #fff;
+    --colorContactActive__two   : #a65bf4;
+}

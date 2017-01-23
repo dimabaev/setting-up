@@ -1,0 +1,26 @@
+@import "./_element/_variable.css";
+@import "./_element/_header.css";
+@import "./_element/_imgstyle.css";
+@import "./_element/_portfolio.css";
+@import "./_element/_font.css";
+@import "./_element/_contact.css";
+@import "./_pages/home.css";
+@import "./normalize.css";
+
+
+/*=========================
+Основные стили
+==========================*/
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
